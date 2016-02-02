@@ -6784,7 +6784,9 @@ Dartmouth	Columbia	07:06	Columbia	71-49	Jeff Coby	Foul	Brandon Mcdonnell	Mike Fl
 Dartmouth	Columbia	07:05	Dartmouth	71-50	Cole Harrison	made FT	Brandon Mcdonnell	Mike Fleming	Tommy Carpenter	Cole Harrison	Taylor Johnson	Kyle Castlin	Maodo Lo	Lukas Meisner	Grant Mullins	Luke Petrasek
 Dartmouth	Columbia	07:05	Dartmouth	71-51	Cole Harrison	made FT	Brandon Mcdonnell	Mike Fleming	Tommy Carpenter	Cole Harrison	Taylor Johnson	Kyle Castlin	Maodo Lo	Lukas Meisner	Grant Mullins	Luke Petrasek
 Dartmouth	Columbia	06:47	Columbia	71-51	Alex Rosenberg	missed Two	Brandon Mcdonnell	Mike Fleming	Tommy Carpenter	Cole Harrison	Taylor Johnson	Kyle Castlin	Maodo Lo	Lukas Meisner	Grant Mullins	Luke Petrasek
-Dartmouth	Columbia	06:47	Columbia	71-51	Lukas Meisner	Offensive Rebound	Brandon Mcdonnell	Mike Fleming	Tommy Carpenter	Cole Harrison	Taylor Johnson	Kyle Castlin	Maodo Lo	Lukas Meisner	Grant Mullins	Luke Petrasek
+Dartmouth	Columbia	06:47	Columbia	71-51	Kyle Castlin	Offensive Rebound	Brandon Mcdonnell	Mike Fleming	Tommy Carpenter	Cole Harrison	Taylor Johnson	Kyle Castlin	Maodo Lo	Lukas Meisner	Grant Mullins	Luke Petrasek
+Dartmouth	Columbia	06:46	Columbia	71-51	Kyle Castlin	missed Tip In	Brandon Mcdonnell	Mike Fleming	Tommy Carpenter	Cole Harrison	Taylor Johnson	Kyle Castlin	Maodo Lo	Lukas Meisner	Grant Mullins	Luke Petrasek
+Dartmouth	Columbia	06:44	Columbia	71-51	Alex Rosenberg	Offensive Rebound	Brandon Mcdonnell	Mike Fleming	Tommy Carpenter	Cole Harrison	Taylor Johnson	Kyle Castlin	Maodo Lo	Lukas Meisner	Grant Mullins	Luke Petrasek
 Dartmouth	Columbia	06:34	Dartmouth	71-51	Cole Harrison	Foul	Brandon Mcdonnell	Mike Fleming	Tommy Carpenter	Cole Harrison	Taylor Johnson	Kyle Castlin	Maodo Lo	Lukas Meisner	Grant Mullins	Luke Petrasek
 Dartmouth	Columbia	06:34	Columbia	71-51	Grant Mullins	missed FT	Brandon Mcdonnell	Mike Fleming	Tommy Carpenter	Cole Harrison	Taylor Johnson	Kyle Castlin	Maodo Lo	Lukas Meisner	Grant Mullins	Luke Petrasek
 Dartmouth	Columbia	06:34	Columbia	71-51	TEAM	Deadball Rebound	Brandon Mcdonnell	Mike Fleming	Tommy Carpenter	Cole Harrison	Taylor Johnson	Kyle Castlin	Maodo Lo	Lukas Meisner	Grant Mullins	Luke Petrasek
@@ -6837,7 +6839,7 @@ Dartmouth	Columbia	01:36	Dartmouth	77-60	Michael Stones	missed Layup	Cole Harris
 Dartmouth	Columbia	01:36	Columbia	77-60	John Sica	Block	Cole Harrison	Quinten Payne	Cameron Smith	Michael Stones	Ike Ngwudo	Kyle Castlin	Maodo Lo	Lukas Meisner	Grant Mullins	Luke Petrasek
 Dartmouth	Columbia	01:34	Dartmouth	77-60	Quinten Payne	Offensive Rebound	Cole Harrison	Quinten Payne	Cameron Smith	Michael Stones	Ike Ngwudo	Kyle Castlin	Maodo Lo	Lukas Meisner	Grant Mullins	Luke Petrasek
 Dartmouth	Columbia	01:33	Dartmouth	77-60	Quinten Payne	missed Two	Cole Harrison	Quinten Payne	Cameron Smith	Michael Stones	Ike Ngwudo	Kyle Castlin	Maodo Lo	Lukas Meisner	Grant Mullins	Luke Petrasek
-Dartmouth	Columbia	01:31	Dartmouth	77-60	TEAM	Offensive Rebound	Cole Harrison	Quinten Payne	Cameron Smith	Michael Stones	Ike Ngwudo	Kyle Castlin	Maodo Lo	Lukas Meisner	Grant Mullins	Luke Petrasek
+Dartmouth	Columbia	01:31	Dartmouth	77-60	TEAM	Deadball Rebound	Cole Harrison	Quinten Payne	Cameron Smith	Michael Stones	Ike Ngwudo	Kyle Castlin	Maodo Lo	Lukas Meisner	Grant Mullins	Luke Petrasek
 Dartmouth	Columbia	01:31	Columbia	77-60	John Sica	Foul	Cole Harrison	Quinten Payne	Cameron Smith	Michael Stones	Ike Ngwudo	Kyle Castlin	Maodo Lo	Lukas Meisner	Grant Mullins	Luke Petrasek
 Dartmouth	Columbia	01:31	Dartmouth	77-60	Michael Stones	missed FT	Cole Harrison	Quinten Payne	Cameron Smith	Michael Stones	Ike Ngwudo	Kyle Castlin	Maodo Lo	Lukas Meisner	Grant Mullins	Luke Petrasek
 Dartmouth	Columbia	01:31	Dartmouth	77-60	TEAM	Deadball Rebound	Cole Harrison	Quinten Payne	Cameron Smith	Michael Stones	Ike Ngwudo	Kyle Castlin	Maodo Lo	Lukas Meisner	Grant Mullins	Luke Petrasek

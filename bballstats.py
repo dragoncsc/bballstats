@@ -249,6 +249,19 @@ def getPlayer(stri):
 		return 'Gunnar Olaffson'
 	elif attempt == 'M Conyers-jordan':
 		return 'Maria Conyers-jordan'	
+	elif attempt == 'Missy Repoli':
+		return 'Melissa Repoli'
+	elif attempt == 'Caitlyn Unsworth':
+		return 'Caitlin Unsworth'
+	elif attempt == 'Melissa Mullins':
+		return 'Missy Mullins'
+	elif attempt == 'Letava Whippy':
+		return 'Latava Whippy'
+
+
+		
+	elif attempt == 'Melissa Mullins':
+		return 'Missy Mullins'
 
 
 	return attempt
